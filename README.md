@@ -1,0 +1,2 @@
+# Local_Rag_Based_On_Qwen
+一个基于Qwen的本地RAG应用
